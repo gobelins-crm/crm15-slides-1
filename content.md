@@ -376,7 +376,7 @@ __ART__ Ahead-of-time (AOT) compilation
 .right-column[
 .pull-right[![Right-aligned image](https://developer.android.com/wear/images/notifications.png)]
 ## Mobile & Wear
-- Applis "déportés"
+- Applis "déportées"
 ]
 
 ---
